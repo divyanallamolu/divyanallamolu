@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Divya, a Computer Science and Design student at MVGR College of Engineering and a learner in the NxtWave AIML program.<br><br>I’m passionate about technology and continuously improving my skills in programming, web development, and problem-solving. I enjoy learning new concepts, building projects, and exploring different areas in computer science.<br><br>I’m currently focused on strengthening my technical knowledge, gaining practical experience through projects, and growing as a developer. My goal is to build impactful solutions, contribute to meaningful projects, and create a successful career in the tech industry.
+I’m Divya, a Computer Science at MVGR College of Engineering and a learner in the NxtWave AIML program.<br><br>I’m passionate about technology and continuously improving my skills in programming, web development, and problem-solving. I enjoy learning new concepts, building projects, and exploring different areas in computer science.<br><br>I’m currently focused on strengthening my technical knowledge, gaining practical experience through projects, and growing as a developer. My goal is to build impactful solutions, contribute to meaningful projects, and create a successful career in the tech industry.
 
 
 ## 🌐 Socials:
